@@ -8,10 +8,9 @@
 
 namespace EnjoyYourBusiness\PictureResizeBundle\Image;
 
-use EnjoyYourBusiness\pictureresizebundle\Exception\FileNotFoundException;
+use EnjoyYourBusiness\PictureResizeBundle\Exception\FileNotFoundException;
 use EnjoyYourBusiness\pictureresizebundle\Exception\UnsupportedImageTypeException;
 use EnjoyYourBusiness\PictureResizeBundle\Operation\OperationInterface;
-
 
 /**
  * Class Image
