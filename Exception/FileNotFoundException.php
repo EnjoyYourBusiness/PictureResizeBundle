@@ -6,7 +6,7 @@
  * Copyright 2014 Enjoy Your Business - RCS Bourges B 800 159 295 ©
  */
 
-namespace EnjoyYourBusiness\pictureresizebundle\Exception;
+namespace EnjoyYourBusiness\PictureResizeBundle\Exception;
 
 
 /**
